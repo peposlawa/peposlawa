@@ -4,8 +4,7 @@
 
 I have been learning how to code at School Of Code for the past 4 months<br>
 usually you will find me reading about technology, east Asian cultures, psychology & arts<br>
-I have got a tortie cat named... cat<br>
-*(also in my spare time I enjoy killing monsters in Diablo 4)*<br><br>
+I have got a tortie cat named... cat & in my spare time I enjoy killing monsters in Diablo 4<br>
 
 ## some stats, we all love them
 
