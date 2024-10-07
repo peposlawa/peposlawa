@@ -1,6 +1,6 @@
-## hello... is it me you're looking for?
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&pause=1000&color=65C9FF&background=FFFFFF00&vCenter=true&width=500&height=18&lines=//+welcome+to+my+GitHub+page%2C+Wanderer;//+my+name+is+Paulina;//+it's+nice+to+meet+you;//+how+are+you+feeling+today%3F)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&weight=500&size=18&pause=1000&color=65C9FF&background=FFFFFF00&vCenter=true&width=500&height=18&lines=welcome+to+my+GitHub+page%2C+Wanderer;my+name+is+Paulina;it's+nice+to+meet+you;how+are+you+feeling+today%3F)](https://git.io/typing-svg)
+## hello... is it me you're looking for?
 
 I have been learning how to code at School Of Code for the past 4 months<br>
 usually you will find me reading about technology, east Asian cultures, psychology & arts<br>
