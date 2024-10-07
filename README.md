@@ -19,6 +19,6 @@ I have got a tortie cat named... cat<br>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,js,html,css,express,nextjs,nodejs,react,vite,docker,postman,vercel,vscode,windows,apple,figma,blender,ps,ai,pr,obsidian,linkedin,discord,instagram,codepen&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,js,html,css,express,nextjs,nodejs,react,vite,docker,postman,vercel,vscode,windows,apple,figma,blender,ps,ai,pr,obsidian,linkedin,discord,instagram,codepen&perline=15" />
   </a>
 </p>
