@@ -2,9 +2,9 @@
 
 ## hello... is it me you're looking for?
 
-I have been learning how to code at School Of Code for the past 4 months<br>
-usually you will find me reading about technology, east Asian cultures, psychology & arts<br>
-I have got a tortie cat named... cat & in my spare time I enjoy killing monsters in Diablo 4<br>
+in October '24 I have completed an intense 16 week coding bootcamp at School Of Code.<br>
+usually you will find me reading about technology, east Asian cultures, psychology & exploring art.<br>
+I have got a tortie cat named... cat & in my spare time I enjoy playing games and indulging in my million hobbies.br>
 
 ## some stats, we all love them
 
