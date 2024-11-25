@@ -4,7 +4,7 @@
 
 in October '24 I have completed an intense 16 week coding bootcamp at School Of Code.<br>
 usually you will find me reading about technology, east Asian cultures, psychology & exploring art.<br>
-I have got a tortie cat named... cat & in my spare time I enjoy playing games and indulging in my million hobbies.br>
+I have got a tortie cat named... cat & in my spare time I enjoy playing games and indulging in my million hobbies.<br>
 
 ## some stats, we all love them
 
